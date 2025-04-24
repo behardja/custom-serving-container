@@ -1,4 +1,4 @@
-# vertex-psc-benchmark
+# custom-serving-container
 
 This project showcases a method to build a custom serving container to register an ONNX model on Vertex AI.
 
